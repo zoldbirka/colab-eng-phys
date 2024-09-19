@@ -1,2 +1,2 @@
-Ez a tananyag a Bevezetés a Python programozásba című felvételi előkészítő részismereti képzésre program anyaga.
-Bevezetést nyújt a Python programozási nyelv alapjaiba. 
+This is the collection of python codes for Engineering Physics course
+2024 fall semester
