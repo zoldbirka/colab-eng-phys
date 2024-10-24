@@ -102,7 +102,7 @@ def calc_func_list(value_list:list, func )->list:
 
 # find index in a table (list), where a specific value is reached
 
-def find_index(tab:list, value)->list:
+def find_ind(tab:list, value)->list:
     """ 
     Usage:
     input: tab: list of floats
